@@ -1,0 +1,8 @@
+Exercise 1 a ) output:
+InnerClass1: getString invoked.
+InnerClass1: getAnotherString invoked.
+
+Exercise 1 b ) What is the output when you run Class2?
+Output:
+InnerClass1: getString invoked.
+InnerClass1: getAnotherString invoked.
